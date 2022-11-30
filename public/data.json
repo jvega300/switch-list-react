@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "stch": true
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "type": ["Grass", "Poison"],
+    "stch": true
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "stch": true
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "stch": true
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "stch": true
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "stch": true
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "stch": true
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "stch": true
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "stch": true
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "stch": true
+  }
+]
